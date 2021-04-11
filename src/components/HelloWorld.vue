@@ -79,6 +79,11 @@
           awesome-vue
         </a>
       </li>
+      <li>
+        <a href="http://localhost:8080/#/component-a">
+          component-a
+        </a>
+      </li>
     </ul>
   </div>
 </template>
